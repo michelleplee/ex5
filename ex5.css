@@ -1,0 +1,36 @@
+body {
+    background-color:black
+
+}
+
+h3, footer {
+    
+    position: absolute;
+    margin-left: 10px;
+    color:white;
+    font-family: avenir;
+    
+
+}
+
+footer {
+    margin-bottom: 20px;
+    
+    
+}
+
+a:link {
+    text-decoration: none;
+    color:white;
+}
+
+
+a:visited {
+  color:white;   
+}
+
+
+a:hover {
+ text-decoration: underline;   
+}
+    
